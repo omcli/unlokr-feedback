@@ -4,11 +4,12 @@ This repository is dedicated to tracking feedback, feature requests, and bug rep
 
 **SecureSlide** (formerly `pptx-pass-remover`) is a secure, privacy-focused web application designed to remove "Modify" password protection from PowerPoint (.pptx) files locally in your browser.
 
-**Live App**: [https://pptx-pass-remover.vercel.app/](https://pptx-pass-remover.vercel.app/)
+**Live App**: [unlokr.wtf](https://www.unlokr.wtf/)
+**Beta Preview**: [beta.unlokr.wtf](https://beta.unlokr.wtf/)
 
 ## 📝 How to Provide Feedback
 
-We value your input! To help us improve SecureSlide, please use the [Issues](https://github.com/ombhut175/secureslide-feedback/issues) tab to:
+We value your input! To help us improve SecureSlide, please use the [Issues](https://github.com/omcli/unlokr-feedback/issues) tab to:
 
 - **Report a Bug**: If something isn't working as expected.
 - **Request a Feature**: Suggestions for new tools (e.g., PDF or Excel unlockers).
